@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=com.sin.games.alchemist&hl=ru&gl=U
 
 ### Description
 
-||.j4|| **Alchemist** is a puzzle game for developing and training the brain. Develops logical thinking. Purpose: turn all pieces of lead into pieces of gold. When the state of one of the fields changes, the horizontal and vertical fields also change their contents to the opposite. The game has 3 difficulty levels of 20 levels each. Find a solution for each of them.
+&nbsp;&nbsp;&nbsp;&nbsp; **Alchemist** is a puzzle game for developing and training the brain. Develops logical thinking. Purpose: turn all pieces of lead into pieces of gold. When the state of one of the fields changes, the horizontal and vertical fields also change their contents to the opposite. The game has 3 difficulty levels of 20 levels each. Find a solution for each of them.
 
 ### Portrait orienation  
 <div id="header" align="center">
