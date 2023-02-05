@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque" >
+
+    <!-- background color -->
+    <item android:drawable="@color/colorBgr" />
+
+    <!-- Game logo -->
+    <item>
+        <bitmap
+            android:src="@drawable/alchemist_text"
+            android:gravity="center" />
+    </item>
+
+</layer-list>
